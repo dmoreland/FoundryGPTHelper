@@ -1,0 +1,12 @@
+{
+    "name": "chat-addon",
+    "title": "Simple Chat Addon",
+    "description": "Adds a custom /roll command to chat.",
+    "version": "1.0.0",
+    "author": "Your Name",
+    "minimumCoreVersion": "10",
+    "compatibleCoreVersion": "11",
+    "scripts": ["scripts/chat.js"],
+    "styles": ["styles/chat.css"]
+  }
+  
